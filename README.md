@@ -34,7 +34,6 @@ Other utilities:
 <img alt='Visual Studio' src='https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white&style=plastic' />
 
 <br/>
-<img alt='Visual Studio' src='https://drive.google.com/file/d/1I9z055zhgEYYyR4accJnIKvqMSZ-eqU_/view?usp=sharing' />
 I love computers:computer:, camera:camera:, movies:clapper:, music:musical_score:.
 <br/>
 <br/>
