@@ -31,7 +31,6 @@ Other utilities:
 <img alt='Postman' src='https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white&style=plastic' />
 <img alt='MongoCompass' src='http://img.shields.io/badge/-MongoCompass-47A248?style=flat&logo=mongodb&logoColor=white&style=plastic' />
 <img alt='VSCode' src='https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white&style=plastic' />
-<img alt='Visual Studio' src='https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white&style=plastic' />
 
 <br/>
 I love computers:computer:, camera:camera:, movies:clapper:, music:musical_score:.
