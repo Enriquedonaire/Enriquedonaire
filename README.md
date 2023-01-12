@@ -38,4 +38,4 @@ Tools:
 I love computers:computer:, camera:camera:, movies:clapper:, music:musical_score:.
 <br/>
 <br/>
-![Enrique's Stats](https://github-readme-stats.vercel.app/api?username=enriquedonaire&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Enriquedonaire&theme=radical)
