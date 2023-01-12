@@ -33,6 +33,9 @@ Tools:
 <img alt='VSCode' src='https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white&style=plastic' />
 
 <br/>
+ <img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+ 
+<br/>
 I love computers:computer:, camera:camera:, movies:clapper:, music:musical_score:.
 <br/>
 <br/>
