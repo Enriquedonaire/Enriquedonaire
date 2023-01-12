@@ -40,4 +40,5 @@ I love computers:computer:, camera:camera:, movies:clapper:, music:musical_score
 <br/>
  
 
+[![Enrique's github stats](https://github-readme-stats.Enriquedonaire.vercel.app/api?username=Enriquedonaire&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/Enriquedonaire?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.Enriquedonaire.vercel.app/api/top-langs/?username=Enriquedonaire&layout=compact&langs_count=6&theme=blue-green)](https://github.com/Enriquedonaire)
 
