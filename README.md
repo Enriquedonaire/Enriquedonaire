@@ -38,6 +38,7 @@ Tools:
 I love computers:computer:, camera:camera:, movies:clapper:, music:musical_score:.
 <br/>
 <br/>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enriquedonaire)](https://github.com/Enriquedonaire/github-readme-stats)
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enriquedonaire)](https://github.com/Enriquedonaire/github-readme-stats)
 <!-- [![Enrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enriquedonaire)](https://github.com/Enriquedonaire/github-readme-stats)
+ -->
  -->
