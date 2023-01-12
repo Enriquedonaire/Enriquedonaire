@@ -1,11 +1,13 @@
+
+![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
+
 ### Hi, I'm Enrique, Nice to meet you! 👋
 
 
 I'm a Full-stack Developer with background in Digital Cinema and Audio-Visual editing.
 My greatest skill is my creativity, applied to solve logical problems resulting in an efficient but also stimulating product for the user.
 My mission is to interlace the technological and artistic worlds, identifying the needs of the people and providing innovative and entertaining solutions.
-<br/>
-<img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+
 Technologies:
 <br/>
 <br/>
