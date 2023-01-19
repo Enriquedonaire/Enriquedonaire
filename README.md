@@ -6,7 +6,11 @@
 I'm a Full-stack Developer with background in Digital Cinema and Audio-Visual editing.
 My greatest skill is my creativity, applied to solve logical problems resulting in an efficient but also stimulating product for the user.
 My mission is to interlace the technological and artistic worlds, identifying the needs of the people and providing innovative and entertaining solutions.
-
+<br/>
+<br/>
+I love computers:computer:, camera:camera:, movies:clapper:, music:musical_score:.
+<br/>
+<br/>
 Technologies:
 <br/>
 <br/>
@@ -33,7 +37,9 @@ Tools:
 <img alt='Postman' src='https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white&style=plastic' />
 <img alt='MongoCompass' src='http://img.shields.io/badge/-MongoCompass-47A248?style=flat&logo=mongodb&logoColor=white&style=plastic' />
 <img alt='VSCode' src='https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white&style=plastic' />
- 
-I love computers:computer:, camera:camera:, movies:clapper:, music:musical_score:.
 <br/>
 <br/>
+![Enrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=enriquedonaire&show_icons=true&theme=radical)
+<br/>
+
+
