@@ -1,7 +1,6 @@
+#### Hi, I'm Enrique, Nice to meet you! 👋
+
 ![Chrome Dino](https://i.pinimg.com/originals/1c/a7/49/1ca74946ed770bb635e4de4711bd861f.gif)
-
-### Hi, I'm Enrique, Nice to meet you! 👋
-
 
 Full-stack Developer with background in Digital Cinema.
 My greatest skill is my creativity, applied to solve logical problems resulting in an efficient but also stimulating product for the user.
