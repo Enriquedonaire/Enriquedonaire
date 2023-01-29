@@ -1,4 +1,4 @@
-![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
+![Chrome Dino](https://i.pinimg.com/originals/1c/a7/49/1ca74946ed770bb635e4de4711bd861f.gif)
 
 ### Hi, I'm Enrique, Nice to meet you! 👋
 
