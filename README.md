@@ -1,5 +1,6 @@
 #### Hi, I'm Enrique, Nice to meet you! 👋
 <img width="1200" height="450" src="https://i.pinimg.com/originals/1c/a7/49/1ca74946ed770bb635e4de4711bd861f.gif">
+
 Full-stack Developer with background in Digital Cinema.
 My greatest skill is my creativity, applied to solve logical problems resulting in an efficient but also stimulating product for the user.
 My mission is to interlace the technological and artistic worlds, identifying the needs of the people and providing innovative and entertaining solutions.
@@ -7,9 +8,7 @@ My mission is to interlace the technological and artistic worlds, identifying th
 <br/>
 I love computers:computer:, camera:camera:, movies:clapper:, music:musical_score:.
 <br/>
-<br/>
 Technologies:
-<br/>
 <br/>
 <img alt='ReactJS' src='https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white' />
 <img alt='JavaScript' src='https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=plastic' />
