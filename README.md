@@ -1,5 +1,5 @@
 #### Hi, I'm Enrique, Nice to meet you! 👋
-
+<img width="1200" height="450" src="https://i.pinimg.com/originals/1c/a7/49/1ca74946ed770bb635e4de4711bd861f.gif">
 ![Chrome Dino](https://i.pinimg.com/originals/1c/a7/49/1ca74946ed770bb635e4de4711bd861f.gif)
 
 Full-stack Developer with background in Digital Cinema.
