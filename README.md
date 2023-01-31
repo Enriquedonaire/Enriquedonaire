@@ -7,7 +7,7 @@ My greatest skill is my creativity, applied to solve logical problems resulting 
 My mission is to interlace the technological and artistic worlds, identifying the needs of the people and providing innovative and entertaining solutions.
 <br/>
 <br/>
-<!-- I love computers:computer:, camera:camera:, movies:clapper:, music:musical_score:. -->
+I love computers:computer:, camera:camera:, movies:clapper:, music:musical_score:.
 <br/>
 <br/>
 Technologies:
