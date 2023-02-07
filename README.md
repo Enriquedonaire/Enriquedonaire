@@ -1,7 +1,7 @@
 #### Hi, I'm Enrique, Nice to meet you! 👋
 <img width="100%" height="375vh" src="https://i.pinimg.com/originals/1c/a7/49/1ca74946ed770bb635e4de4711bd861f.gif">
 
-Full-stack Developer with background in Digital Cinema.
+Full-stack Developer with background in Digital Arts.
 My greatest skill is my creativity, applied to solve logical problems resulting in an efficient but also stimulating product for the user.
 My mission is to interlace the technological and artistic worlds, identifying the needs of the people and providing innovative and entertaining solutions.
 <br/>
