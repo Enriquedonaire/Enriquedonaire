@@ -6,9 +6,8 @@ My greatest skill is my creativity, applied to solve logical problems resulting 
 My mission is to interlace the technological and artistic worlds, identifying the needs of the people and providing innovative and entertaining solutions.
 <br/>
 <br/>
-I love computers:computer:, camera:camera:, movies:clapper:, music:musical_score:.
-<br/>
 Technologies:
+<br/>
 <br/>
 <img alt='ReactJS' src='https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white' />
 <img alt='JavaScript' src='https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=plastic' />
@@ -36,5 +35,6 @@ Tools:
 <br/>
 <br/>
 ![Enrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=enriquedonaire&show_icons=true&theme=radical)
+<br/>
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enriquedonaire&layout=compact&langs_count=8&show_icons=true&theme=radical)](https://github.com/enriquedonaire/github-readme-stats) 
