@@ -6,7 +6,7 @@ My greatest skill is my creativity, applied to solve logical problems resulting 
 My mission is to interlace the technological and artistic worlds, identifying the needs of the people and providing innovative and entertaining solutions.
 <br/>
 <br/>
-Technologies:
+#   🛠️Technologies:
 <br/>
 <br/>
 <img alt='ReactJS' src='https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=black' />
