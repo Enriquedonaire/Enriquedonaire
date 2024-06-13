@@ -1,5 +1,5 @@
 ###  Hi, I'm Enrique, Nice to meet you! 👋
-<img width="100%" height="465vh" src="https://cdn.dribbble.com/users/1057188/screenshots/14953770/media/45238101bb043d2ef5613bc318ca403c.gif" />
+<img  src="https://cdn.dribbble.com/users/1057188/screenshots/14953770/media/45238101bb043d2ef5613bc318ca403c.gif" />
 
 Full-stack Developer with background in Digital Arts.
 My greatest skill is my creativity, applied to solve logical problems resulting in an efficient but also stimulating product for the user.
