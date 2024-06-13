@@ -1,4 +1,4 @@
-#### Hi, I'm Enrique, Nice to meet you! 👋
+###   Hi, I'm Enrique, Nice to meet you! 👋
 <img width="100%" height="465vh" src="https://i.pinimg.com/originals/1c/a7/49/1ca74946ed770bb635e4de4711bd861f.gif">
 
 Full-stack Developer with background in Digital Arts.
