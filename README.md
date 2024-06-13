@@ -1,5 +1,5 @@
 ###  Hi, I'm Enrique, Nice to meet you! 👋
-<img width="100%" height="465vh" src="https://www.icorps.com/hubfs/Pros-and-Cons-of-Azure-Blog-Pic2.gif"/>
+<img width="100%" height="465vh" src="https://cdn.dribbble.com/users/1079085/screenshots/15932868/media/47c9d39d8f0a3a33bd78fd40b10ba5c4.gif"/>
 
 Full-stack Developer with background in Digital Arts.
 My greatest skill is my creativity, applied to solve logical problems resulting in an efficient but also stimulating product for the user.
