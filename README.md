@@ -2,7 +2,7 @@
 <img width="100%" height="475vh" src="https://i.pinimg.com/originals/1c/a7/49/1ca74946ed770bb635e4de4711bd861f.gif">
 
 Full-Stack Developer with a background in Digital Arts and a love for blending creativity with code. I’m all about using tech to solve problems in clever and visually exciting ways. 
-⚡ I know my way around JavaScript, React, Vue, and more — and yes, I used to be a doctor, but now I’m all about building awesome web experiences!
+⚡ I know my way around TypeScripy/JavaScript, React, Next, Vue, and more — and yes, I used to be a doctor, but now I’m all about building awesome web experiences!
 Let’s create something amazing together! 💻✨
 <br/>
 <br/>
