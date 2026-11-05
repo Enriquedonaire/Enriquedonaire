@@ -1,4 +1,5 @@
 ### Hi, I'm Enrique 👋
+<img width="100%" height="475vh" src="https://i.pinimg.com/originals/1c/a7/49/1ca74946ed770bb635e4de4711bd861f.gif">
 
 **Senior Full-Stack Engineer** based in Barcelona, frontend-focused, with six years of professional experience building production web applications with React, Next.js, TypeScript and Node.js.
 
@@ -45,12 +46,3 @@
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
----
-
-#### GitHub activity
-
-<p>
-  <img src="./profile/stats.svg" alt="Enrique's GitHub stats" height="165" />
-  <img src="./profile/top-langs.svg" alt="Top languages" height="165" />
-</p>
