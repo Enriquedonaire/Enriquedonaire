@@ -36,7 +36,11 @@
 ![Payload CMS](https://img.shields.io/badge/Payload_CMS-000000?style=flat&logo=payloadcms&logoColor=white)
 
 **AI**<br/>
+![Claude](https://img.shields.io/badge/Claude_(Anthropic)-D97757?style=flat&logo=claude&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat&logo=openai&logoColor=white)
+![Gladia](https://img.shields.io/badge/Gladia_AI-5B3FFF?style=flat)
+![Speech.io](https://img.shields.io/badge/Speech.io-1E88E5?style=flat)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white)
 
 **Cloud & tooling**<br/>
@@ -46,3 +50,12 @@
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+#### GitHub activity
+
+<p>
+  <img src="./profile/stats.svg" alt="Enrique's GitHub stats" height="165" />
+  <img src="./profile/top-langs.svg" alt="Top languages" height="165" />
+</p>
